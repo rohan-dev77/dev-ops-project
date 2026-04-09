@@ -2,7 +2,7 @@ trigger:
 - main
 
 pool:
-  name: Default   # ← important fix
+  name: Default
 
 steps:
 - task: Maven@3
